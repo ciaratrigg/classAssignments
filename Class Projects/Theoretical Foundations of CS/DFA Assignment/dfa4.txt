@@ -1,0 +1,9 @@
+5         // number of states
+2         // alphabet size
+0         // ID of the initial state
+1         // IDs of the final/accepting state(s)
+0 1 0     // transitions from state 0 go to states 1 and 0
+1 2 3     // transitions from state 1 go to states 2 and 3
+2 2 4     // transitions from state 2 go to states 4 and 3
+4 4 4     // transitions from state 4 go to states 4 and 4
+3 0 3     // transitions from state 3 go to states 0 and 3
